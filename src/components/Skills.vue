@@ -1,6 +1,6 @@
 <template>
     <!-- This example requires Tailwind CSS v2.0+ -->
-    <div class="bg-white">
+    <div class="bg-gray-50">
     <div class="max-w-7xl mx-auto py-16 px-4 sm:px-6 lg:py-16 lg:px-8">
         <section-header header="What can I provide for you" />
         <dl class="mt-12 space-y-10 sm:space-y-0 sm:grid sm:grid-cols-2 sm:gap-x-6 sm:gap-y-12 lg:grid-cols-4 lg:gap-x-8">
